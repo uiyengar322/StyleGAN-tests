@@ -1,0 +1,55 @@
+References
+
+[1] Karras, T., Laine, S., & Aila, T. (2019, March 29). A style-based generator architecture for
+generative Adversarial Networks. arXiv.org. https://arxiv.org/abs/1812.04948
+
+[2] ArcGIS Urban. Urban Planning & Design-Smart City Planning. (n.d.).
+https://www.esri.com/en-us/arcgis/products/arcgis-urban/overview
+
+[3] Li, Chunyan. (2022). Urban Planning Design and Evaluation Based on GIS Information and
+Bayesian Network. Mathematical Problems in Engineering. 2022. 1-10. 10.1155/2022/5963133.
+
+[4] Song, Y., & Jing, Y. (2020). Urban Planning and design based on autocad to expand GIS
+function. Computer-Aided Design and Applications, 17(S2), 11–21.
+https://doi.org/10.14733/cadaps.2020.s2.11-21
+
+[5] Karras, T., Laine, S., Aittala, M., Hellsten, J., Lehtinen, J., & Aila, T. (n.d.). Analyzing and
+improving the image quality of stylegan.
+https://openaccess.thecvf.com/content_CVPR_2020/papers/Karras_Analyzing_and_Improving_th
+e_Image_Quality_of_StyleGAN_CVPR_2020_paper.pdf
+
+[6] Sauer, A., Schwarz, K., & Geiger, A. (n.d.). StyleGAN-XL: Scaling StyleGAN to Large
+Diverse Datasets. https://www.cvlibs.net/publications/Sauer2022SIGGRAPH.pdf
+
+[7] Cheong, S.-Y. (n.d.). Keras documentation: Face image generation with stylegan. Keras.
+https://keras.io/examples/generative/stylegan/
+
+[8] Hands-on-image-generation-with-tensorflow-2.0/chapter07 at master · packtpublishing/hands-
+on-image-generation-with-tensorflow-2.0. GitHub. (n.d.).
+https://github.com/PacktPublishing/Hands-On-Image-Generation-with-TensorFlow-
+2.0/tree/master/Chapter07
+
+[9] StyleGAN 2. (n.d.). https://nn.labml.ai/gan/stylegan/index.html
+
+[10] Adaloglou, Nikolas. “Analyzing How Stylegan Works: Style Incorporation in High-Quality
+Image Generation.” Medium, 27 Oct. 2020, towardsdatascience.com/analyzing-how-
+Stylegan-works-style-incorporation-in-high-quality-image-generation-80a29227075b.
+
+[11] Borji, Ali. “ArXiv:1802.03446v5 [CS.CV] 24 Oct 2018.” Pros and Cons of GAN Evaluation
+Measures, arxiv.org/pdf/1802.03446.pdf.
+
+[12] Brownlee, J. (2019, October 10). How to implement the Frechet Inception Distance (FID) for
+evaluating Gans. MachineLearningMastery.com. https://machinelearningmastery.com/how-to-
+implement-the-frechet-inception-distance-fid-from-scratch/
+
+[13] ROUGETET, Arnaud. “Landscape Pictures.” Kaggle, 5 June 2020,
+www.kaggle.com/datasets/arnaud58/landscape-pictures?select=00000003_%287%29.jpg.
+
+[14] Zamir, A. R., & Shah, M. (n.d.). "Image Geo-localization Based on Multiple Nearest
+Neighbor Feature Matching using Generalized Graphs", 1546 IEEE Transactions on Pattern
+Analysis and machine intelligence - UCF CRCV.
+https://www.crcv.ucf.edu/papers/PAMI_Amir%20Zamir.pdf10
+
+[15] Radford, A., Metz, L., & Chintala, S. (2015). Unsupervised Representation Learning with
+Deep Convolutional Generative Adversarial Networks. arXiv.
+https://doi.org/https://doi.org/10.48550/arXiv.1511.06434
