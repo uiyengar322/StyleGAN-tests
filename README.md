@@ -1,7 +1,7 @@
 # StyleGAN-tests
 
 StyleGAN exploration on new landscape and city image datasets. 
-Code from Keras.io/Keras GitHub repository
+Code from Keras.io/Keras GitHub repository,
 Source: https://github.com/keras-team/keras-io/blob/master/examples/generative/stylegan.py
 Licensed under the Apache License, Version 2.0, which is also included.
 
